@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+models/release/
+views/release/
+public/dist/
+public/built/
+logs/
+uploads/
+sftp-config.json
